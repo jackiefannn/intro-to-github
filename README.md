@@ -2,8 +2,8 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
 
-# Template
-How to get started
+# Intro to Github 
+This project is to demonstrate git commands and Github.
 
 - Create a new repository from this template.
 - Edit this readme to describe the repository
